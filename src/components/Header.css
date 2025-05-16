@@ -1,0 +1,17 @@
+.title{
+    color: #f0f0f0;
+}
+.sub-title{
+    font-size:11px;
+    color: #FFFF00;
+}
+
+@media (max-width: 600px) {
+    .title {
+        font-size: 10px; /* smaller on mobile */
+    }
+
+    .sub-title {
+        font-size: 6px;  /* smaller subtitle on mobile */
+    }
+}

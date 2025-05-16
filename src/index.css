@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --royal-navy: #0F2C59;
+  --royal-navy-dark: #0A1F3D;
+  --royal-gold: #FFD700;
+  --royal-gold-dark: #E5C100;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.2;
+}
+
+p {
+  line-height: 1.5;
+}
