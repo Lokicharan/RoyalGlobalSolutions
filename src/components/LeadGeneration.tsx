@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import lead from '../images/lead.png';
+import lead from '../images/Lead.png';
 
 
 const LeadGeneration = () => {
